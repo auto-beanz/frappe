@@ -435,11 +435,10 @@
    "options": "Module Def"
   },
   {
-   "default": "0",
+   "default": "1",
    "fieldname": "is_system_generated",
    "fieldtype": "Check",
-   "label": "Is System Generated",
-   "read_only": 1
+   "label": "Is System Generated"
   },
   {
    "default": "0",
@@ -470,7 +469,7 @@
  "idx": 1,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-09-28 20:19:35.935720",
+ "modified": "2025-07-11 16:00:04.683498",
  "modified_by": "Administrator",
  "module": "Custom",
  "name": "Custom Field",

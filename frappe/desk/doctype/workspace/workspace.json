@@ -130,7 +130,6 @@
    "in_list_view": 1,
    "in_standard_filter": 1,
    "label": "Public",
-   "read_only": 1,
    "search_index": 1
   },
   {
@@ -156,8 +155,7 @@
   {
    "fieldname": "sequence_id",
    "fieldtype": "Float",
-   "label": "Sequence Id",
-   "read_only": 1
+   "label": "Sequence Id"
   },
   {
    "fieldname": "roles",
@@ -219,7 +217,7 @@
  ],
  "in_create": 1,
  "links": [],
- "modified": "2024-05-30 17:30:36.791171",
+ "modified": "2025-07-14 13:56:28.119099",
  "modified_by": "Administrator",
  "module": "Desk",
  "name": "Workspace",

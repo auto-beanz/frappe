@@ -106,18 +106,17 @@
    "fieldtype": "Section Break"
   },
   {
-   "default": "0",
+   "default": "1",
    "fieldname": "is_system_generated",
    "fieldtype": "Check",
-   "label": "Is System Generated",
-   "read_only": 1
+   "label": "Is System Generated"
   }
  ],
  "icon": "fa fa-glass",
  "idx": 1,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-02-28 22:24:12.377693",
+ "modified": "2025-07-11 16:01:46.070356",
  "modified_by": "Administrator",
  "module": "Custom",
  "name": "Property Setter",
